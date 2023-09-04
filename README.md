@@ -6,4 +6,5 @@ Lab Exercise from Web Development tutorial classes
     <li>CSS Introduction - Smart Learning Solution</li>
     <li>Web Form - HTML & CSS</li>
     <li>Javascript Introduction</li>
+    <li>PHP Introduction - HTML & PHP Integration</li>
 </ol>
