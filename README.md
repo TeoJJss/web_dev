@@ -7,4 +7,5 @@ Lab Exercise from Web Development tutorial classes
     <li>Web Form - HTML & CSS</li>
     <li>Javascript Introduction</li>
     <li>PHP Introduction - HTML & PHP Integration</li>
+    <li>SetUp MySQL Database & PHP connect DB</li>
 </ol>
