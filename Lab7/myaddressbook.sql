@@ -20,7 +20,7 @@ SET time_zone = "+00:00";
 --
 -- Database: `myaddressbook`
 --
-CREATE DATABASE IF NOT EXISTS `myaddressbook` DEFAULT CHARACTER SET utf8mb3 COLLATE utf8mb3_general_ci;
+CREATE DATABASE IF NOT EXISTS `myaddressbook` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
 USE `myaddressbook`;
 
 -- --------------------------------------------------------
@@ -40,7 +40,7 @@ CREATE TABLE IF NOT EXISTS `contacts` (
   `contact_relationship` varchar(10) NOT NULL,
   `contact_dob` date NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=MyISAM AUTO_INCREMENT=4 DEFAULT CHARSET=utf8mb3;
+) ENGINE=MyISAM AUTO_INCREMENT=4 DEFAULT CHARSET=utf8mb4;
 
 --
 -- Dumping data for table `contacts`
