@@ -8,4 +8,5 @@ Lab Exercise from Web Development tutorial classes
     <li>Javascript Introduction</li>
     <li>PHP Introduction - HTML & PHP Integration</li>
     <li>SetUp MySQL Database & PHP connect DB</li>
+    <li>PHP query and fecth</li>
 </ol>
